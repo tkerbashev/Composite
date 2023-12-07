@@ -1,7 +1,6 @@
 ﻿using Composite;
 
-Console.WriteLine( "Composite Structural Design Pattern example" );
-Console.WriteLine();
+Console.WriteLine( "Composite Structural Design Pattern example\n" );
 
 var adamsArticle = new RelevantArticle("Prof Adams", 17);
 var burnsArticle = new RelevantArticle("Dr Burns", 12);
